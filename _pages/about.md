@@ -15,7 +15,7 @@ I am passionate about my studies and am excited to explore the various opportuni
 
 ## Research Interests
 
-While I have not yet had the chance to engage in any research under a professor, there are a number of topics I have found encountered in my coursework that I would be interested to pursue in the future. A few of those topics I am particularly interest in are:
+While I have not yet had the chance to engage in any research under a professor, there are a number of topics I have encountered in my coursework that I would be interested to pursue more thoroughly in the future. A few of those topics I am particularly interest in are:
 
 * Reinforcement Learning
 * Derivative Pricing
