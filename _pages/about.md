@@ -31,7 +31,7 @@ This section is unfortunately a work in progress until I put together something 
 
 ## Extracurricular Activities
 
-Outside of academics, I enjoy playing Soccer and Ultimate Frisbee, and watching movies.
+Outside of academics, I enjoy playing soccer and ultimate frisbee, and watching movies.
 
 ## Future Goals
 
