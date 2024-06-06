@@ -35,7 +35,7 @@ Outside of academics, I enjoy playing soccer and ultimate frisbee, and watching 
 
 ## Future Goals
 
-Looking ahead, I intend to apply for admission to a number of PhD programs in the Fall. I am particularly interested in programs in Mathematical Finance, Operations Reserach, and Statistics. While the more distant future is harder to predict I hope to one day work in academia. 
+Looking ahead, I intend to apply for admission to a number of PhD programs in the Fall. I am particularly interested in programs in Mathematical Finance, Operations Research, and Statistics. While the more distant future is harder to predict I hope to one day work in academia. 
 
 ## Contact
 
