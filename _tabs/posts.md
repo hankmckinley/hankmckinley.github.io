@@ -1,5 +1,5 @@
 ---
 title: Posts
 icon: fas fa-edit
-order: 2
+order: 5
 ---
